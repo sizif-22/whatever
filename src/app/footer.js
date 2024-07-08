@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <div className=" grid grid-cols-2 bg-black text-white p-3 absolute -bottom-44 w-full">
+    <div className=" grid grid-cols-2 bg-black text-white p-3 w-full">
       <div className="pl-4">
         <h2 className=" text-xl font-bold reddit-mono-lol">Our Locations:</h2>
         <ul>
